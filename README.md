@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year **B.Sc. Data Science** student at University of Okara
+- 🎓 **B.Sc. Data Science** student at University of Okara
 - 🤖 Passionate about **Machine Learning**, **NLP**, and building AI-powered solutions
 - 🌱 Currently exploring **Deep Learning** and **MLOps**
 - 💡 I love turning raw data into meaningful insights and real-world applications
