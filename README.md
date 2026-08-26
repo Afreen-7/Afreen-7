@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Featured Projects
+### Featured Projects
 
 | Project                                                                                                                 | Description                                                                                                                                | Tech                                    |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -66,16 +66,16 @@
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
-- 📜 **Python for Data Science, AI & Development** — IBM
-- 📜 **Databases and SQL for Data Science with Python** — IBM
-- 📜 **AI-Powered Website & Chatbot Masterclass** — DataCrumbs
-- 📜 **Data Science and AI** — DataCrumbs
+-  **Python for Data Science, AI & Development** — IBM
+-  **Databases and SQL for Data Science with Python** — IBM
+-  **AI-Powered Website & Chatbot Masterclass** — DataCrumbs
+-  **Data Science and AI** — DataCrumbs
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
