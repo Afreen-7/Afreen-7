@@ -6,17 +6,18 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 **B.Sc. Data Science** student at University of Okara
-- 🤖 Passionate about **Machine Learning**, **NLP**, and building AI-powered solutions
-- 🌱 Currently exploring **Deep Learning** and **MLOps**
-- 💡 I love turning raw data into meaningful insights and real-world applications
-- 📫 Reach me at **afreentariq76@gmail.com**
+-  **B.Sc. Data Science** graduate from the University of Okara
+ Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights
+ Skilled in **SQL, Python, Excel, Data Cleaning, EDA, and Data Visualization**
+ I enjoy analyzing data, identifying trends, and turning insights into real-world business solutions
+ Currently strengthening my skills in **Business Intelligence, Advanced Analytics, and Power BI**
+ Reach me at **[afreentariq76@gmail.com]**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -35,15 +36,15 @@
 
 ---
 
-### 🚀 Featured Projects
+### 📊 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛡️ [Cyberbullying Detection System](https://github.com/Afreen-7/cyberbullying-detection-system) | NLP model using DistilBERT achieving ~92% accuracy & 0.91 F1-score on 19,998 samples | Python, HuggingFace, NLP |
-| ❤️ [Heart Disease Prediction](https://github.com/Afreen-7/Heart-Disease-Prediction-using-Logistic-Regression) | Logistic Regression classifier with 89% accuracy using medical attributes | Python, Scikit-learn |
-| 🏠 [House Price Predictor](https://github.com/Afreen-7/House-Price-Predictor) | Interactive ML web app with Streamlit for real-time price prediction | Python, Streamlit, Plotly |
-| 🌸 [Iris Classification (KNN)](https://github.com/Afreen-7/K-Nearest-Neighbors-for-Iris-Classification) | KNN multi-class classifier achieving 100% accuracy on the Iris dataset | Python, Scikit-learn |
-| 📈 [Stock Revenue Dashboard](https://github.com/Afreen-7/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard) | Historical stock data analysis with interactive visual dashboard | Python, Pandas, Plotly |
+| Project                                                                                                                 | Description                                                                                                                                | Tech                                    |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| [Retail Sales Data Analysis](https://github.com/Afreen-7)                                                               | Analyzed retail sales data to identify sales trends, customer patterns, and key business insights through data exploration and SQL queries | MySQL, SQL, EDA                         |
+| [Layoffs Data Analysis](https://github.com/Afreen-7)                                                                    | Performed data cleaning and exploratory analysis to uncover layoff trends by company, industry, country, and year                          | MySQL, SQL, CTEs, Window Functions      |
+| [Stock Revenue Dashboard](https://github.com/Afreen-7/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard) | Analyzed historical stock and revenue data and built an interactive dashboard to visualize business trends and performance                 | Python, Pandas, Plotly                  |
+| [House Price Predictor](https://github.com/Afreen-7/House-Price-Predictor)                                              | Built an interactive data-driven web application for real-time house price prediction                                                      | Python, Pandas, Scikit-learn, Streamlit |
+| [Heart Disease Prediction](https://github.com/Afreen-7/Heart-Disease-Prediction-using-Logistic-Regression)              | Prepared and analyzed healthcare data and developed a classification model achieving 89% accuracy                                          | Python, Pandas, Scikit-learn            |
 
 ---
 
