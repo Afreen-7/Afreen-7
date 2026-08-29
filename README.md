@@ -46,6 +46,7 @@
 | [Heart Disease Prediction](https://github.com/Afreen-7/Heart-Disease-Prediction-using-Logistic-Regression)              | Prepared and analyzed healthcare data and developed a classification model achieving 89% accuracy                                          | Python, Pandas, Scikit-learn            |
 
 ---
+## Github stats
 
 <div align="center">
 
