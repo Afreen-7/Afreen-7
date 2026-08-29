@@ -46,22 +46,21 @@
 | [Heart Disease Prediction](https://github.com/Afreen-7/Heart-Disease-Prediction-using-Logistic-Regression)              | Prepared and analyzed healthcare data and developed a classification model achieving 89% accuracy                                          | Python, Pandas, Scikit-learn            |
 
 ---
-## Github stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Afreen-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen-7&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Afreen-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen-7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Afreen-7&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Afreen-7&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
----
 
 ###  Certifications
 
