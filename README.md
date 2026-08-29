@@ -48,7 +48,6 @@
 ---
 
 ### GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Afreen-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -59,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afreen-7&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Afreen-7&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
