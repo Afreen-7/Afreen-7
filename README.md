@@ -49,23 +49,15 @@
 
 ## GitHub Stats
 
-<div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-stats-extended.vercel.app/api?username=Afreen-7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-  <!-- Top Languages -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afreen-7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-## GitHub Streak
+## GitHub Streak Stats
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Afreen-7&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=Afreen-7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
 
 </div>
+
 
 ###  Certifications
 
